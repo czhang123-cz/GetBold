@@ -1,0 +1,5 @@
+{
+  "name": "MINI Internal Configurator",
+  "description": "Internal order request and configuration tool for MINI employee lease programs.",
+  "requestFramePermissions": []
+}
